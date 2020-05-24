@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" />
-  <project name="LineageOS/android_device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" remote="github" />
   <project name="ArianK16a/android_device_xiaomi_davinci" path="device/xiaomi/davinci" remote="github" />
   <project name="ArianK16a/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" remote="github" />
-  <project name="vantoman/kernel_xiaomi_davinci" path="kernel/xiaomi/sm6150" remote="github" revision="quartz" />
+  <project name="vantoman/kernel_xiaomi_davinci" path="kernel/xiaomi/sm6150" remote="github" />
 </manifest>
