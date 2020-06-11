@@ -3,5 +3,5 @@
   <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" />
   <project name="ArianK16a/android_device_xiaomi_davinci" path="device/xiaomi/davinci" remote="github" />
   <project name="ArianK16a/proprietary_vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" remote="github" />
-  <project name="vantoman/kernel_xiaomi_davinci" path="kernel/xiaomi/sm6150" remote="github" />
+  <project name="ArianK16a/android_kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" remote="github" />
 </manifest>
